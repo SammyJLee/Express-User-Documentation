@@ -1,4 +1,4 @@
-site_name: Express User Documentation
+site_name: Express User Documentation Sample Docs
 nav:
   - Home: "index.md"
   - Project Structure: "pages/project-structure.md"
