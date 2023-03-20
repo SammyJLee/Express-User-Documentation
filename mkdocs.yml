@@ -12,8 +12,6 @@ nav:
 
 repo_url: https://github.com/sammyjlee/Express-User-Documentation
 
-repo_name: sammyjlee/Express-User-Documentation
-
 
 markdown_extensions:
   - toc:
