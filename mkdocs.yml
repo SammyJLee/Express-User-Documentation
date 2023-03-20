@@ -10,9 +10,9 @@ nav:
   - Glossary: "pages/glossary.md"
 
 
-repo_url: https://github.com/megankuo/Express-User-Documentation
+repo_url: https://github.com/sammyjlee/Express-User-Documentation
 
-repo_name: megankuo/Express-User-Documentation
+repo_name: sammyjlee/Express-User-Documentation
 
 
 markdown_extensions:
