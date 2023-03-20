@@ -10,9 +10,6 @@ nav:
   - Glossary: "pages/glossary.md"
 
 
-repo_url: https://github.com/sammyjlee/Express-User-Documentation
-
-
 markdown_extensions:
   - toc:
       toc_depth: 3
